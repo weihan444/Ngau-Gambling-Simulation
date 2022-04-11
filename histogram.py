@@ -5,7 +5,7 @@ data = np.loadtxt('Profit.txt', delimiter=',')
 
 x1,x2,x3,x4 = data[:,0], data[:,1], data[:,2], data[:,3]
 
-fig, axes = plt.subplots(1, 4, figsize=(10,3), sharex=False, sharey=True)
+fig, axes = plt.subplots(1, 4, figsize=(16,6), sharex=False, sharey=True)
 Xs = [x1,x2,x3,x4]
 player = ['Dealer','Player 1', 'Player 2', 'Player 3']
 colors = ['b','r','g','y']

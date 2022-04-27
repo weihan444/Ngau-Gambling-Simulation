@@ -12,7 +12,7 @@ The game the project simulate is a slightly modified version of the card game. T
 6. The round continues into second phase by having the dealer dealing 2 more cards to all the players, starting from himself.
 7. All the players will try their best to form a best arrangement of 3-2 cards. 3 cards will act as the "license" for the other 2 cards while the 2 cards will determine how "big" their hands will be.
 8. In order to have a "license", 3 of the cards needs to sum up to a multiples of 10, or having 3 of a kind. Eg. 2 8 10, J Q 10, 7 7 7
-  - In this phase, the cards 3 and 6 are interchangeable, which means 3 can act as 6 and 6 can act as 3, so 3 3 8 count as having a license since both of the 3 can act as 6
+   - In this phase, the cards 3 and 6 are interchangeable, which means 3 can act as 6 and 6 can act as 3, so 3 3 8 count as having a license since both of the 3 can act as 6
 9. For 2 of the remaining cards, it works the same way as the first phase of the round, sum both of the cards up and uses the first digit to determine how big the hands will be with a few special arrangement.
 10. The second payout will be done according to the table below:
 
